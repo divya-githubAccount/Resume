@@ -1,0 +1,28 @@
+div{
+  outline-style:solid;
+  outline-color:grey;
+  outline-width:15px;
+}
+#abc{
+  outline-color:black;
+  outline-width:5px;
+}
+#s1{
+  padding: 20px;
+  background-color: lightseagreen;
+  color: white;
+   text-align:justify;
+  width:250px;
+  border-radius: 25px;
+   font-family: sans-serif;
+
+}
+#l1{
+  font-family: sans-serif;
+}
+img{
+  border-radius: 50%;
+}
+body{
+  background-color: lightgrey;
+}
